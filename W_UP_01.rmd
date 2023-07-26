@@ -60,6 +60,7 @@ The box plot shows that skill players on average do about 60 push ups and the li
 favstats(pushups~position,data=mydata)
 ```
 
+We have found in the median column that the Line players is a average of 15 and for the Skill players is a average of 48. The mean column shows that Line players has an average of 17 and the Skill players is an average 50. We have found the difference in mean of 33 push ups. 
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
