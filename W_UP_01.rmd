@@ -70,11 +70,12 @@ We have found in the median column that the Line players is a average of 15 and 
 t.test(pushups~position,data=mydata)
 ```
 
-The t-test shows that there is a difference in average push ups for line players and skill players. The difference is 33 push ups more than the line players. The 95 percent of the time the kill players do between 20 and 45 more push ups in two minutes than a line player. 
+The t-test shows that there is a difference in average push ups for line players and skill players. The difference is 33 push ups more than the line players. The 95 percent of the time the kill players do between 20 and 45 more push ups in two minutes than a line player. The p-value is .000009421 this is a small number which leads us to reject the Null hypothesis. 
 <!--State hypothesis clearly. Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc. Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
 
 
 # Discussion and Conclusion
 
+The original question is who does more push ups between the line players and skill players. Is there a statistical difference? We have found that there is a difference on push ups done per line and skill players. The difference is about 95 percent of the time skill players do 20 to 45 push ups than a line player. The p-value is so small which leads us to reject the null hypothesis. We have found there is a statistical difference. 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
